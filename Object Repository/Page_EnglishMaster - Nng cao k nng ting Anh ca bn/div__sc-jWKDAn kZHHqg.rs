@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__sc-jWKDAn kZHHqg</name>
+   <tag></tag>
+   <elementGuidId>5089e2cc-78a3-4a10-812c-be4e1fd95311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-jWKDAn.kZHHqg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.sc-jWKDAn</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>571fbc53-3920-42d6-a987-26a57d7a18a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jWKDAn kZHHqg</value>
+      <webElementGuid>0a1ad541-ca3a-4df5-9af5-7a7d95b40780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/div[@class=&quot;sc-ehdxKQ jdWqAA&quot;]/div[1]/div[@class=&quot;sc-gNwFIu izqITu&quot;]/div[@class=&quot;sc-hTsfep jbGMBI&quot;]/div[@class=&quot;sc-jWKDAn kZHHqg&quot;]</value>
+      <webElementGuid>121106d2-c260-4361-a718-5e4adde8b6bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>3243ffb7-5f62-4c29-8516-f56b16f313c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đ'])[1]//div[1]</value>
+      <webElementGuid>1fb39012-f10a-40e2-b077-5421f5f8e79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ'])[2]/following::div[6]</value>
+      <webElementGuid>0c98a2cc-90a4-4511-b241-a7a6b5a08284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Điền'])[1]/preceding::div[2]</value>
+      <webElementGuid>dfc66623-7e76-4c08-b4c6-b5536353784a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhấp vào ảnh để thay đổi'])[1]/preceding::div[3]</value>
+      <webElementGuid>27f004a0-9580-4a3c-9d1f-a6d8189ce1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>4e1aaed0-6a79-499e-aeff-9be8f8088467</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

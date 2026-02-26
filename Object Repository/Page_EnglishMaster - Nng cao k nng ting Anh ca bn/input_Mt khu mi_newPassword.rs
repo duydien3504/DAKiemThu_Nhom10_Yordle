@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Mt khu mi_newPassword</name>
+   <tag></tag>
+   <elementGuidId>fe442a9c-65d4-4a8a-87d4-c704fa28ebaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='newPassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;newPassword&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu mới&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e906b37e-be67-4758-86a6-c91a94bfc255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập mật khẩu mới</value>
+      <webElementGuid>06b7043d-323e-4e25-a8c2-e71374c6d5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-wouEX gkUnxO</value>
+      <webElementGuid>908c08d1-b4d3-4cad-a17f-c7e1446c4ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>67d7021f-5dd9-493d-b8d9-8253723a26c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>newPassword</value>
+      <webElementGuid>6a587b23-bcac-4974-88f6-be36a99f7d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/form[@class=&quot;sc-jhJrWE dZMiqr&quot;]/div[@class=&quot;sc-juCFiw ihMkQw&quot;]/div[@class=&quot;sc-jVkSTN criZuL&quot;]/input[@class=&quot;sc-wouEX gkUnxO&quot;]</value>
+      <webElementGuid>37eab515-c12b-4c2b-9a5c-361c4cb52105</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='newPassword']</value>
+      <webElementGuid>48b8bf10-431a-4afb-8f78-fb329b7990dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/form/div[6]/div/input</value>
+      <webElementGuid>6af5a6e5-707d-4709-8817-41ba74966731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>d8df5c78-1877-4bff-bdbc-c3649e12e856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Nhập mật khẩu mới' and @type = 'password' and @name = 'newPassword']</value>
+      <webElementGuid>e1679095-d128-49ba-8abe-95736a0f1764</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lu thay i</name>
+   <tag></tag>
+   <elementGuidId>a9aab397-e23d-49c2-ba25-4f3fefe23898</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-JhHQP.dLYmbB</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Lưu thay đổi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b704f983-d405-4ff5-a357-dfd59c84b53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ed38fed5-6ed0-4294-b134-ea2360f66511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-JhHQP dLYmbB</value>
+      <webElementGuid>8f97206a-e3e3-4d52-b153-49413d3e2f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lưu thay đổi</value>
+      <webElementGuid>fd9a1d99-47ea-423b-9412-c4a36754851f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/form[@class=&quot;sc-jhJrWE dZMiqr&quot;]/div[@class=&quot;sc-diimnR blyEMu&quot;]/button[@class=&quot;sc-JhHQP dLYmbB&quot;]</value>
+      <webElementGuid>39818f3e-ae0a-40da-a66e-0415aef74ddc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>b91661b2-e52c-40e7-a7d6-593d088f20d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/form/div[7]/button[2]</value>
+      <webElementGuid>8cdd7df8-2b5e-408f-be2f-a8682f57d867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/following::button[1]</value>
+      <webElementGuid>55ff2815-65b8-4d00-abed-bcd8fe80465b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='👁️‍🗨️'])[2]/following::button[2]</value>
+      <webElementGuid>c3618bdb-857a-4a6f-aca4-2003d28c1a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lưu thay đổi']/parent::*</value>
+      <webElementGuid>b8e5ba06-493d-40b8-a266-d402c47c2422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>a645835a-4f5f-470e-aa73-1cda3e83d06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Lưu thay đổi' or . = 'Lưu thay đổi')]</value>
+      <webElementGuid>50465141-6407-4fa0-9d19-162bb07fa7ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

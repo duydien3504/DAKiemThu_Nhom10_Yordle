@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_EnglishMasterTI  C TI KHONBT U</name>
+   <tag></tag>
+   <elementGuidId>62f9cfd3-df08-4617-bb6e-f1a0a73ca40d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.sc-blIAwI.gEhnFo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=navigation</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>60e5f0ca-9d52-4e76-a40d-e587cc5ae441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-blIAwI gEhnFo</value>
+      <webElementGuid>ac3ce933-d6ba-4ef7-869b-38fdecaca745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EnglishMasterTÔI ĐÃ CÓ TÀI KHOẢNBẮT ĐẦU</value>
+      <webElementGuid>1752a04b-fe03-410d-85a5-e0dc404bc971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-gsJsQu xOwem&quot;]/nav[@class=&quot;sc-blIAwI gEhnFo&quot;]</value>
+      <webElementGuid>13bdca65-c311-4588-8d47-816bd3975683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav</value>
+      <webElementGuid>15e9b3eb-988a-4784-b646-5430ee86bce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>dc4d01e9-0a6d-42a2-adb6-ccbb2047aaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'EnglishMasterTÔI ĐÃ CÓ TÀI KHOẢNBẮT ĐẦU' or . = 'EnglishMasterTÔI ĐÃ CÓ TÀI KHOẢNBẮT ĐẦU')]</value>
+      <webElementGuid>850ac376-cc28-4868-8f30-5eef280147f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mc tiu hc tp</name>
+   <tag></tag>
+   <elementGuidId>d8d5ba1e-fa50-4228-8937-be98c291237d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/div[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3afd5a33-434f-454d-8b86-4a89bd54579a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jwTyAe cvvfwA</value>
+      <webElementGuid>42332798-bfb8-4baf-9617-dea659bf1627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mục tiêu học tập</value>
+      <webElementGuid>40fbf0f1-0034-4fc0-968c-43886154dbc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-heNhxX GtHzj&quot;]/div[@class=&quot;sc-bRKDuR jpYIJi&quot;]/nav[@class=&quot;sc-dTvVRJ iNMsmT&quot;]/div[@class=&quot;sc-jwTyAe cvvfwA&quot;]</value>
+      <webElementGuid>a7809a15-fd30-4e11-a48f-34cbd8719743</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/div[14]</value>
+      <webElementGuid>69d07a3a-7f12-4855-9c01-e3e0066ede23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lộ trình Cá nhân hóa'])[1]/following::div[2]</value>
+      <webElementGuid>6db5c135-5ac2-4249-955e-a0686de2f853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bộ Quiz Phụ'])[1]/following::div[4]</value>
+      <webElementGuid>7366ea21-b7d2-46d7-b04d-ba44b85ed5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cửa hàng'])[1]/preceding::div[3]</value>
+      <webElementGuid>00ada374-b71e-4849-bc61-397353d394a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]</value>
+      <webElementGuid>37958067-14af-4a02-9e0c-fa22df4c0954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mục tiêu học tập' or . = 'Mục tiêu học tập')]</value>
+      <webElementGuid>d3f2a007-16c8-42c5-afdb-afe35dd7db40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

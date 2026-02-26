@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Suite_UpdateProfile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>51dc3d5a-b221-497a-ab52-9428322efb79</testSuiteGuid>
+   <testCaseLink>
+      <guid>9e7e3272-67b8-4d07-bcff-9f09a862ba0e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_UpdateProfile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>551662a0-708b-45fd-ae0f-660007fc7523</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_UpdateProfile</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>551662a0-708b-45fd-ae0f-660007fc7523</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ten_Hien_Thi</value>
+         <variableId>f2dcafc9-0001-40e1-8ceb-97cf450bccc0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>551662a0-708b-45fd-ae0f-660007fc7523</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Mat_Khau_Hien_Tai</value>
+         <variableId>6a63d50a-33f0-44b6-b8c9-573fd815a3a5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>551662a0-708b-45fd-ae0f-660007fc7523</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Mat_Khau_Moi</value>
+         <variableId>72d9e106-ba5d-4e66-9a2f-703d7e1a4e38</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>551662a0-708b-45fd-ae0f-660007fc7523</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Expected_Result</value>
+         <variableId>d84796be-1aa5-4942-bfcc-598dafbfb7ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>551662a0-708b-45fd-ae0f-660007fc7523</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Avatar</value>
+         <variableId>1792991f-d3ad-4e99-be3c-93dea2d74ceb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
