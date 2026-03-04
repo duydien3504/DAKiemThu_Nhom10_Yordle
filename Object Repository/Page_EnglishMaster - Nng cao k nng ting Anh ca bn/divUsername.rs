@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_AvatarDisplay</name>
+   <name>divUsername</name>
    <tag></tag>
-   <elementGuidId>df35960b-58eb-4b13-84d3-4a8696c80d2b</elementGuidId>
+   <elementGuidId>bd49bfcd-a21f-446f-a7ec-9c11143d028b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[contains(@class, 'sc-hTsfep')]</value>
+         <value>//div[contains(concat(' ', normalize-space(@class), ' '), ' sc-jeMcBm')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

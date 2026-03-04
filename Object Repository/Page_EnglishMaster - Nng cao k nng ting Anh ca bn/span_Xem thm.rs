@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_TI  C TI KHON</name>
+   <name>span_Xem thm</name>
    <tag></tag>
-   <elementGuidId>69899e85-03ee-4fa5-8414-c2a32b94b6a8</elementGuidId>
+   <elementGuidId>cf786d40-a52e-4bbc-a091-f029156619c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/nav/div/div[2]/button</value>
+         <value>//div[@id='root']/div/div/nav/div[17]/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.sc-hdBJTi.jRjdel</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;TÔI ĐÃ CÓ TÀI KHOẢN&quot;s]</value>
+         <value>internal:text=&quot;Xem thêm&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3289a560-d7c3-45e0-a96c-1ba8e5da7616</webElementGuid>
+      <value>span</value>
+      <webElementGuid>6b5ffdca-bb0e-4c93-aa38-812d868abe7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sc-hdBJTi jRjdel</value>
-      <webElementGuid>ad2d9b88-4285-4da8-916d-deafb8fb5949</webElementGuid>
+      <value>sc-jJLAfE fjSbyC</value>
+      <webElementGuid>bfcafb9f-4714-4b1b-9496-8b9f12503d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>TÔI ĐÃ CÓ TÀI KHOẢN</value>
-      <webElementGuid>bf8e9d60-d1de-4c12-bcce-21e0b460c862</webElementGuid>
+      <value>Xem thêm</value>
+      <webElementGuid>149922b4-3a58-4ce6-a8ff-01df40fde006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;sc-gsJsQu xOwem&quot;]/nav[@class=&quot;sc-blIAwI gEhnFo&quot;]/div[@class=&quot;sc-itBLYH kevWlI&quot;]/div[@class=&quot;sc-boKDdR lhcNpg&quot;]/button[@class=&quot;sc-hdBJTi jRjdel&quot;]</value>
-      <webElementGuid>beda7ea2-02b7-4a5d-9a35-4a94fa3b918c</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-heNhxX GtHzj&quot;]/div[@class=&quot;sc-bRKDuR jpYIJi&quot;]/nav[@class=&quot;sc-dTvVRJ iNMsmT&quot;]/div[@class=&quot;sc-jwTyAe cvvfwA&quot;]/span[@class=&quot;sc-jJLAfE fjSbyC&quot;]</value>
+      <webElementGuid>ecd56266-99f9-42ab-830e-03263a6dc976</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/nav/div/div[2]/button</value>
-      <webElementGuid>bfa4db15-ca33-4aec-8c21-d8f492ebf088</webElementGuid>
+      <value>//div[@id='root']/div/div/nav/div[17]/span</value>
+      <webElementGuid>de6715f8-70f8-4987-88ba-e17daf9d29b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EnglishMaster'])[1]/following::button[1]</value>
-      <webElementGuid>53e7c432-3052-4763-b1ea-c9047116fe52</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ'])[1]/following::span[1]</value>
+      <webElementGuid>4dbc7f42-44b7-4e1f-b667-599f4a3d43a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BẮT ĐẦU'])[1]/preceding::button[1]</value>
-      <webElementGuid>d25a37a9-0b73-42fa-b220-7bff47fac9d0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cửa hàng'])[1]/following::span[2]</value>
+      <webElementGuid>2b568331-f3b0-4d40-85a7-b42807421a42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Học ngoại ngữ miễn phí, vui nhộn và hiệu quả!'])[1]/preceding::button[2]</value>
-      <webElementGuid>d0db2303-54d4-4fd9-af78-32be6d70380d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2025 EnglishMasterVersion 1.0.0'])[1]/preceding::span[1]</value>
+      <webElementGuid>7d54d5c4-078f-49c8-8196-62643830a75d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='TÔI ĐÃ CÓ TÀI KHOẢN']/parent::*</value>
-      <webElementGuid>f665415e-55ea-4775-b628-1d36281eaa6a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Xem thêm']/parent::*</value>
+      <webElementGuid>189a0bf6-875c-4137-8b44-bd5053ca2719</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>1f5c451e-a076-49b2-bb64-0c854a2bf979</webElementGuid>
+      <value>//div[17]/span</value>
+      <webElementGuid>d59180ae-552d-4953-b76f-133c48a9bc14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'TÔI ĐÃ CÓ TÀI KHOẢN' or . = 'TÔI ĐÃ CÓ TÀI KHOẢN')]</value>
-      <webElementGuid>67a11fba-7d0c-4797-aa92-1075ba5a3004</webElementGuid>
+      <value>//span[(text() = 'Xem thêm' or . = 'Xem thêm')]</value>
+      <webElementGuid>6f6f35c0-42c7-4ec6-af51-2001f27b81c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

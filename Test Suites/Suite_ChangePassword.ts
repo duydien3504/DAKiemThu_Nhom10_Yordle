@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Suite_UpdateProfile</name>
+   <name>Suite_ChangePassword</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,15 +10,15 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>51dc3d5a-b221-497a-ab52-9428322efb79</testSuiteGuid>
+   <testSuiteGuid>32c89ec5-8675-4915-abe9-54c015c71a63</testSuiteGuid>
    <testCaseLink>
-      <guid>5320ae9d-c32b-4efe-8fb6-8f2ca208dc1a</guid>
+      <guid>a771e6c4-d82a-4e8f-a40c-6f4618c15842</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_UpdateProfile</testCaseId>
+      <testCaseId>Test Cases/TC_ChangePassword</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>3c5dea1c-d6da-42b2-9b96-4f407e1ac097</id>
+         <id>6d021ca6-dac3-4601-a906-8894bdfa8a00</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,16 +27,22 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>3c5dea1c-d6da-42b2-9b96-4f407e1ac097</testDataLinkId>
+         <testDataLinkId>6d021ca6-dac3-4601-a906-8894bdfa8a00</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Ten_Hien_Thi</value>
-         <variableId>9cee04c3-7b75-4cd4-8838-9c2a649686e0</variableId>
+         <value>Mat_Khau_Hien_Tai</value>
+         <variableId>2c6af46b-8a68-444e-baba-5fdb71ddb295</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>3c5dea1c-d6da-42b2-9b96-4f407e1ac097</testDataLinkId>
+         <testDataLinkId>6d021ca6-dac3-4601-a906-8894bdfa8a00</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Expected_Result</value>
-         <variableId>3843a9dd-8652-4e5f-aa47-79401a04a6ad</variableId>
+         <value>Mat_Khau_Moi</value>
+         <variableId>e195b344-ceca-4508-81c5-6e0e08ef382a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6d021ca6-dac3-4601-a906-8894bdfa8a00</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ket_qua_mong_doi</value>
+         <variableId>141e448d-7f92-465e-8b13-3d8b9c6f15b9</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed9691fb-a0b0-497b-9a7f-b9f5f7379584</webElementGuid>
+      <webElementGuid>c87d968a-207b-46a7-a2bf-3e21283309ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập mật khẩu hiện tại</value>
-      <webElementGuid>047de477-3c2b-4f70-80b0-baaea26460e4</webElementGuid>
+      <webElementGuid>7019adb3-0ba4-4793-8213-7b32dd32526d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-wouEX gkUnxO</value>
-      <webElementGuid>c4ce8ec9-68d9-4e53-9020-887756daca7a</webElementGuid>
+      <webElementGuid>f5bd09c5-329a-40a5-b577-b5e787a7724d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ee7455bd-0b55-468c-ac9b-f7ff43693b84</webElementGuid>
+      <webElementGuid>7230d187-6438-4f89-8036-c3beaa916235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>currentPassword</value>
-      <webElementGuid>3a633d2c-eb8c-4edd-87a8-579708c93e98</webElementGuid>
+      <webElementGuid>e9cc5912-480d-4ed4-ba87-abf6a171b8a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/form[@class=&quot;sc-jhJrWE dZMiqr&quot;]/div[@class=&quot;sc-juCFiw ihMkQw&quot;]/div[@class=&quot;sc-jVkSTN criZuL&quot;]/input[@class=&quot;sc-wouEX gkUnxO&quot;]</value>
-      <webElementGuid>61846c82-a8c9-4848-8f29-1d3647bb4ced</webElementGuid>
+      <webElementGuid>bc6e9589-0ffa-4987-adb2-ec4120d074d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>706e7b84-04ad-4904-be6f-d03d9dc494c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='currentPassword']</value>
-      <webElementGuid>2df5e8d7-782e-408a-9a87-db42f1b50759</webElementGuid>
+      <webElementGuid>42594238-0e22-4e1c-b714-64c7c99badd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div[2]/form/div[5]/div/input</value>
-      <webElementGuid>a538e80f-956c-463f-942b-4d559f139ae5</webElementGuid>
+      <webElementGuid>899bd7c8-4b3c-42e1-9e3d-15200a1fbe48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/input</value>
-      <webElementGuid>5fc5befa-1134-4b0a-932d-05da77044f98</webElementGuid>
+      <webElementGuid>4f1a7355-663f-483b-a00e-d5f05e4a6453</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Nhập mật khẩu hiện tại' and @type = 'password' and @name = 'currentPassword']</value>
-      <webElementGuid>363c4bed-273c-4d73-ba60-9d5751c0d256</webElementGuid>
+      <webElementGuid>e3426fc9-e09b-46fc-bba2-ce1c32c0940f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

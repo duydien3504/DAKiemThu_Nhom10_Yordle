@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b704f983-d405-4ff5-a357-dfd59c84b53e</webElementGuid>
+      <webElementGuid>2841a82b-f45e-471b-893b-c1f3b7cd4748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>ed38fed5-6ed0-4294-b134-ea2360f66511</webElementGuid>
+      <webElementGuid>478bf99c-64ce-49b8-a929-31660691a90a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-JhHQP dLYmbB</value>
-      <webElementGuid>8f97206a-e3e3-4d52-b153-49413d3e2f99</webElementGuid>
+      <webElementGuid>0eabd0bd-79dc-4125-922f-b0327d9722a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lưu thay đổi</value>
-      <webElementGuid>fd9a1d99-47ea-423b-9412-c4a36754851f</webElementGuid>
+      <webElementGuid>2ea0ceb5-e101-4dd3-b3f2-9bd2856a14cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/form[@class=&quot;sc-jhJrWE dZMiqr&quot;]/div[@class=&quot;sc-diimnR blyEMu&quot;]/button[@class=&quot;sc-JhHQP dLYmbB&quot;]</value>
-      <webElementGuid>39818f3e-ae0a-40da-a66e-0415aef74ddc</webElementGuid>
+      <webElementGuid>5ccf2ec3-b2c0-4864-9cb1-1669a675fb51</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>b91661b2-e52c-40e7-a7d6-593d088f20d9</webElementGuid>
+      <webElementGuid>21fb044a-5f9d-48cc-a1d7-68bab2f645d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div[2]/form/div[7]/button[2]</value>
-      <webElementGuid>8cdd7df8-2b5e-408f-be2f-a8682f57d867</webElementGuid>
+      <webElementGuid>102ea95f-2192-485f-86d9-456d5060c9fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/following::button[1]</value>
-      <webElementGuid>55ff2815-65b8-4d00-abed-bcd8fe80465b</webElementGuid>
+      <webElementGuid>787f82a0-84d5-4dc8-b9d2-e7c823e734d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='👁️‍🗨️'])[2]/following::button[2]</value>
-      <webElementGuid>c3618bdb-857a-4a6f-aca4-2003d28c1a96</webElementGuid>
+      <webElementGuid>8a9d765a-7b50-48f7-a130-d559dcbc5919</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Lưu thay đổi']/parent::*</value>
-      <webElementGuid>b8e5ba06-493d-40b8-a266-d402c47c2422</webElementGuid>
+      <webElementGuid>2a8bd49e-f844-48d1-b744-7c3193418181</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>a645835a-4f5f-470e-aa73-1cda3e83d06a</webElementGuid>
+      <webElementGuid>5f3b3434-b35d-4d61-b081-aa76c5d06ff5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Lưu thay đổi' or . = 'Lưu thay đổi')]</value>
-      <webElementGuid>50465141-6407-4fa0-9d19-162bb07fa7ff</webElementGuid>
+      <webElementGuid>19b1a049-87b2-451e-87b6-3f27c6b5291a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

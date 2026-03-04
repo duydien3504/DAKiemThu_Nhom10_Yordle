@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3be008df-d0a8-4e59-aa44-c8cd9fdf0a9f</webElementGuid>
+      <webElementGuid>0f7f8ee3-e0fd-4859-90f6-28ba2a7fb2ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hồ sơThay đổi tên, email, ảnh đại diện và mật khẩu.</value>
-      <webElementGuid>41db07fe-c845-4c88-bf51-925ab72eb4d9</webElementGuid>
+      <webElementGuid>b559049a-96cc-4a89-94e7-7bc2328ea2e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;sc-dFVmKS iyHdyf&quot;]/button[@class=&quot;sc-kCuUfV kKZlyi&quot;]/div[2]</value>
-      <webElementGuid>231eab99-fbc2-4236-9021-b2ac2cb7dcf4</webElementGuid>
+      <webElementGuid>85165f19-71a5-4c3e-aa55-e66fc6c3dc84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='👤'])[1]/following::div[1]</value>
-      <webElementGuid>de728ec9-9552-4937-b72c-ef7d985a5a65</webElementGuid>
+      <webElementGuid>0e69e3c4-88c9-42f7-89e1-9e108d1a59b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bảo mật'])[1]/following::div[3]</value>
-      <webElementGuid>6407f440-dd6f-48c4-9651-29fcc9329466</webElementGuid>
+      <webElementGuid>a260744a-06d2-46e4-a19c-405d6a5e001c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div[2]</value>
-      <webElementGuid>595faae3-f581-4db1-8e60-286288c48e5f</webElementGuid>
+      <webElementGuid>81ad0a7f-50fc-42ba-9049-5d0e541f8fe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Hồ sơThay đổi tên, email, ảnh đại diện và mật khẩu.' or . = 'Hồ sơThay đổi tên, email, ảnh đại diện và mật khẩu.')]</value>
-      <webElementGuid>398bba63-97d3-4a00-9de1-75ef2c49c907</webElementGuid>
+      <webElementGuid>b3ca437a-e67b-4321-bd2b-bd9ce6e29ef0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
