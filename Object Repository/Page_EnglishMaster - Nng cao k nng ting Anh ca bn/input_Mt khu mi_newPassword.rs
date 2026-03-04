@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e906b37e-be67-4758-86a6-c91a94bfc255</webElementGuid>
+      <webElementGuid>57ebd0b5-b54b-4eee-b94e-b35c10401ef4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập mật khẩu mới</value>
-      <webElementGuid>06b7043d-323e-4e25-a8c2-e71374c6d5f3</webElementGuid>
+      <webElementGuid>e0a8e613-b66e-441e-89da-8c18171f7afc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-wouEX gkUnxO</value>
-      <webElementGuid>908c08d1-b4d3-4cad-a17f-c7e1446c4ced</webElementGuid>
+      <webElementGuid>3bfbb732-cfa1-49b3-b0fe-d5a0536cb1f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>67d7021f-5dd9-493d-b8d9-8253723a26c5</webElementGuid>
+      <webElementGuid>54d4272b-f68a-42dc-b916-b9dd243dcc63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>newPassword</value>
-      <webElementGuid>6a587b23-bcac-4974-88f6-be36a99f7d59</webElementGuid>
+      <webElementGuid>465cc9ee-12b9-4c7a-93db-55b2e23025a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/form[@class=&quot;sc-jhJrWE dZMiqr&quot;]/div[@class=&quot;sc-juCFiw ihMkQw&quot;]/div[@class=&quot;sc-jVkSTN criZuL&quot;]/input[@class=&quot;sc-wouEX gkUnxO&quot;]</value>
-      <webElementGuid>37eab515-c12b-4c2b-9a5c-361c4cb52105</webElementGuid>
+      <webElementGuid>70d2438b-7dba-49f9-ada9-e8c287830677</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='newPassword']</value>
-      <webElementGuid>48b8bf10-431a-4afb-8f78-fb329b7990dd</webElementGuid>
+      <webElementGuid>528a253d-e74b-4273-be49-d623d48489e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div[2]/form/div[6]/div/input</value>
-      <webElementGuid>6af5a6e5-707d-4709-8817-41ba74966731</webElementGuid>
+      <webElementGuid>647c8a3c-437c-46ec-b090-dfeef0707063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/input</value>
-      <webElementGuid>d8df5c78-1877-4bff-bdbc-c3649e12e856</webElementGuid>
+      <webElementGuid>04934e36-6a18-415e-9f1b-e669708e168b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Nhập mật khẩu mới' and @type = 'password' and @name = 'newPassword']</value>
-      <webElementGuid>e1679095-d128-49ba-8abe-95736a0f1764</webElementGuid>
+      <webElementGuid>e35bf592-802f-4150-9844-749a86221b73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

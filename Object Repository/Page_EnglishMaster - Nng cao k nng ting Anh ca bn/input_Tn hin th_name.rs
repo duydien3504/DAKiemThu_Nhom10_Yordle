@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ea8cb7e2-2a9c-4ccd-8566-431723ad5c05</webElementGuid>
+      <webElementGuid>3a5a9c42-4e98-4703-a247-9c93eefe9cdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập tên của bạn</value>
-      <webElementGuid>b23b39eb-0c6d-4fe1-a9ac-a43283d6518c</webElementGuid>
+      <webElementGuid>4f4b03cc-d26a-42e2-a2d8-f23225c83d12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-wouEX gkUnxO</value>
-      <webElementGuid>17167a82-8d38-4f47-8f35-b8f5528be087</webElementGuid>
+      <webElementGuid>d526e102-b00b-4d76-bd84-2e4f4bf7e1f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +53,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4cc3c453-3b4e-4755-ad31-3e32389ca8fb</webElementGuid>
+      <webElementGuid>ca3d3664-7611-4d73-a7ee-ca9186fd9780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Điền</value>
-      <webElementGuid>4b08ce8d-9b82-41f4-9597-d4cc55b14540</webElementGuid>
+      <value>Duy Dien</value>
+      <webElementGuid>b384c5d8-4c15-4252-b60a-493d4b20287e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>bf7e75f6-fcb2-496f-8dde-21682c730795</webElementGuid>
+      <webElementGuid>e1ddf2b6-cb8d-48a8-bdd9-939427010073</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-abVJb eibVKg&quot;]/div[@class=&quot;sc-fyEkTg dBMGau&quot;]/main[@class=&quot;sc-kwmPJC dIdUHs&quot;]/div[@class=&quot;sc-kMdsqM gkNBgK&quot;]/div[@class=&quot;sc-hdyiqR cMEZfB&quot;]/form[@class=&quot;sc-jhJrWE dZMiqr&quot;]/div[@class=&quot;sc-juCFiw ihMkQw&quot;]/input[@class=&quot;sc-wouEX gkUnxO&quot;]</value>
-      <webElementGuid>b05473ec-1106-4154-916c-d12333910ddd</webElementGuid>
+      <webElementGuid>1fc60dde-19a2-4f3e-bd91-ac56cc7ca0fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='name']</value>
-      <webElementGuid>19c55602-84ce-491a-86c7-b1eceddb5017</webElementGuid>
+      <webElementGuid>874bd235-9b91-42a5-9977-71c11546c5e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div[2]/form/div/input</value>
-      <webElementGuid>bcf5f3c2-ad15-4b17-9382-37fc3192f50b</webElementGuid>
+      <webElementGuid>787b20eb-353e-4778-ba87-0a88cb1588e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/input</value>
-      <webElementGuid>02606b25-6bc6-4ae3-9e18-c3a6dbaae02c</webElementGuid>
+      <webElementGuid>09fc7fcb-73c9-499c-9cbe-b9f7a4f9a74a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Nhập tên của bạn' and @type = 'text' and @name = 'name']</value>
-      <webElementGuid>5b58c592-ef0a-4a47-84b1-1f35fa4fdffc</webElementGuid>
+      <webElementGuid>9201dec5-474b-4216-825f-d6d2a397cce3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
